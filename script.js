@@ -39,22 +39,3 @@ button.onclick = () => {
 
 
 
-// function romanConverter(number){
-//     let romanNumber=""
-//     if (number<4){
-//         for (let i = 1; i <=number; i++){
-//             romanNumber+="I"
-//         }
-//         return romanNumber;
-//     } else if (number=4) {
-//         return "IV"
-//     }  else if (number=5) {
-//         return "V"
-//     }  else if (number<9) {
-//         for (let i = 6; i <=number; i++){
-//             romanNumber+="I"
-//         }
-//         return romanNumber;
-
-//     }
-// }
